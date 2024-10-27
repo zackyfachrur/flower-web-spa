@@ -31,7 +31,7 @@ const ImageGallery = [
   },
   {
     id: 3,
-    name: "Pink Rosses Bouquet",
+    name: "Purple Rosses Bouquet",
     link: Flower3,
     price: "Rp. 599,999,00",
   },
